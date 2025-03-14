@@ -25,7 +25,7 @@ addon | version | maintainers | summary
 [hr_holidays_public](hr_holidays_public/) | 17.0.1.0.6 |  | Manage Public Holidays
 [hr_holidays_public_city](hr_holidays_public_city/) | 17.0.1.0.1 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | HR Holidays Public City
 [hr_holidays_settings](hr_holidays_settings/) | 17.0.1.0.0 |  | Enables Settings Form for HR Holidays.
-[hr_leave_custom_hour_interval](hr_leave_custom_hour_interval/) | 17.0.1.0.0 |  | Edit start and end of leaves using time intervals
+[hr_leave_custom_hour_interval](hr_leave_custom_hour_interval/) | 17.0.1.0.1 |  | Edit start and end of leaves using time intervals
 
 [//]: # (end addons)
 
