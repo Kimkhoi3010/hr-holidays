@@ -81,6 +81,10 @@ Contributors
 
      - Antoni Marroig <amarroig@apsl.net>
 
+- Grupo Isonor <https://www.grupoisonor.es>
+
+     - Alexandre D. Díaz
+
 Maintainers
 -----------
 
